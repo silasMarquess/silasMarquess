@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📈 Estatísticas
-![Silas Marques](https://github-readme-stats.vercel.app/api?username=silasMarquess&show_icons=true&theme=tokyonight)
+![Silas Marques](https://github-readme-stats.vercel.app/api?username=silasMarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 # Projetos Publicos em Destaque
 ## Back-End:
