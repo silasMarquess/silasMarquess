@@ -52,7 +52,7 @@ desenvolvimento de soluções escaláveis
 - [Algoritimos Escaláveis - UniFacimp Wyden](https://bucket-app-microcertificados.s3.amazonaws.com/FACIMP/1077/9690722/13cc88d52b7751645ef43be5e753ba3-6aa2-4034-8a22-d40a7d0a8854)
 - [Progamaçõa Para Internet - UniFacimp Wyden](https://bucket-app-microcertificados.s3.amazonaws.com/FACIMP/1077/9690722/e5c5d08a1429f5e447e1f195189fc8e-e2ba-4e25-a30f-4c2c142ae65e)
 
-## 📄 Currículo Quer me conhecer melhor? segue a baixo alguns links:
+## 📄 Quer me conhecer melhor? segue a baixo alguns links de minhas redes:
 - [📄 Acessar Curriculo Atualizado](https://www.icloud.com/iclouddrive/0544dqUBL6L7OTB_7s-gbHDag#Curriculo%5FSilas%5FMarques%5FModerno)
 - [📱 Fale comigo no WhatsApp](https://wa.me/5511912345678)
 - [Acessa Meu Linkdin](https://www.linkedin.com/in/marques08122)
