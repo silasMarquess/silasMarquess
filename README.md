@@ -6,18 +6,18 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 Estatísticas
+## 📈 Minhas Estartísticas
 ![Silas Marques](https://github-readme-stats.vercel.app/api?username=silasMarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-# Projetos Publicos em Destaque
-## Back-End:
+# Projetos Destaque
+## Back-End
 - ### [📁 api-believer-express](https://github.com/silasMarquess/API_believer.git)
 > exemplo de uma API para CRUD de membros feito puramente com express, typeScript, e node
 
 - ### [📁 api-rbacModel-nestjs - NESTJS](https://github.com/silasMarquess/RBAC_MODEL.git)
 > projeto de exemplo que mostrar a implementação de um modelo de permissionamento RBAC usando a infra top do Nestjs
 
-## Front-End:
+## Front-End
 - ### [📁 web-app-iot](https://github.com/silasMarquess/healthWater_APP.git)
 > exemplo de um FrontEnd de aplicativo web, que recebe informações de um sensor via HaviMQ.
 
@@ -30,8 +30,8 @@
 - ### [📁 web-levelMetric-nextjs](https://github.com/silasMarquess/level-metric.git)
 > exemplo de um aplicativo web feito em nextjs que simula o recebimento de informação de um sensor de nivel de agua conectado a um Raspberry
 
-## Breve Resumo:
-  Desenvolvedor full-Stack com foco em Nestjs, Nextjs , React, Nodejs, TypeScript e
+## Breve Resumo
+Desenvolvedor full-Stack com foco em Nestjs, Nextjs , React, Nodejs, TypeScript e
 AWS. Experiência no desenvolvimento de APIs REST, Aplicativos Web escaláves e
 modernos , SaaS (front e back), além de conhecimentos sólidos em Docker e banco
 de dados PostgreSQL. Apaixonado por tecnologia, aprendizado contínuo e
