@@ -6,7 +6,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- [📱 Fale comigo no WhatsApp](https://wa.me/5599981041614)
+## 📈 Estatísticas
+![Silas Marques](https://github-readme-stats.vercel.app/api?username=silasMarquess&show_icons=true&theme=tokyonight)
 
 # Projetos Publicos em Destaque
 ## Back-End:
@@ -47,9 +48,6 @@ desenvolvimento de soluções escaláveis
 - [Endpoint Security - CISCO](https://www.credly.com/badges/9ce8a6d0-5aba-4f2b-b8ae-1683faacda83/public_url)
 - [Algoritimos Escaláveis - UniFacimp Wyden](https://bucket-app-microcertificados.s3.amazonaws.com/FACIMP/1077/9690722/13cc88d52b7751645ef43be5e753ba3-6aa2-4034-8a22-d40a7d0a8854)
 - [Progamaçõa Para Internet - UniFacimp Wyden](https://bucket-app-microcertificados.s3.amazonaws.com/FACIMP/1077/9690722/e5c5d08a1429f5e447e1f195189fc8e-e2ba-4e25-a30f-4c2c142ae65e)
-
-## 📈 Estatísticas
-![Silas Marques](https://github-readme-stats.vercel.app/api?username=silasMarquess&show_icons=true&theme=tokyonight)
 
 ## 📄 Currículo Quer me conhecer melhor? segue a baixo alguns links:
 - [📄 Acessar Curriculo Atualizado](https://www.icloud.com/iclouddrive/0544dqUBL6L7OTB_7s-gbHDag#Curriculo%5FSilas%5FMarques%5FModerno)
