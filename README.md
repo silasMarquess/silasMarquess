@@ -14,6 +14,9 @@
 - ### [📁 API_BELIEVERS](https://github.com/silasMarquess/API_believer.git)
 > exemplo de uma API para CRUD de membros feito puramente com express, typeScript, e node
 
+- ### [📁 MICRO_API_RBAC - NESTJS](https://github.com/silasMarquess/RBAC_MODEL.git)
+> projeto de exemplo que mostrar a implementação de um modelo de permissionamento RBAC usando a infra top do Nestjs
+
 ## Front-End:
 - ### [📁 app-nextjs-IOT](https://github.com/silasMarquess/healthWater_APP.git)
 > exemplo de um FrontEnd de aplicativo web, que recebe informações de um sensor via HaviMQ.
