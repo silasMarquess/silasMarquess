@@ -11,23 +11,23 @@
 
 # Projetos Publicos em Destaque
 ## Back-End:
-- ### [📁 API_BELIEVERS](https://github.com/silasMarquess/API_believer.git)
+- ### [📁 api-believer-express](https://github.com/silasMarquess/API_believer.git)
 > exemplo de uma API para CRUD de membros feito puramente com express, typeScript, e node
 
-- ### [📁 MICRO_API_RBAC - NESTJS](https://github.com/silasMarquess/RBAC_MODEL.git)
+- ### [📁 api-rbacModel-nestjs - NESTJS](https://github.com/silasMarquess/RBAC_MODEL.git)
 > projeto de exemplo que mostrar a implementação de um modelo de permissionamento RBAC usando a infra top do Nestjs
 
 ## Front-End:
-- ### [📁 app-nextjs-IOT](https://github.com/silasMarquess/healthWater_APP.git)
+- ### [📁 web-app-iot](https://github.com/silasMarquess/healthWater_APP.git)
 > exemplo de um FrontEnd de aplicativo web, que recebe informações de um sensor via HaviMQ.
 
-- ### [📁 painel_admin_NEXTJS](https://github.com/silasMarquess/painel-admin-believer.git)
+- ### [📁 web-painel-admin-nextjs](https://github.com/silasMarquess/painel-admin-believer.git)
 > exemplo  aplicativo fron-ent Saas feito com Nextjs de gestão de membros de uma Igreja.
 
-- ### [📁 App_microApi_NEXTJS](https://github.com/silasMarquess/toastfy-microapi.git)
+- ### [📁 web-ReactToastfy-nextjs](https://github.com/silasMarquess/toastfy-microapi.git)
 > exemplo de um front-end que exemplifica a implementação de uma micro API dentro do nextjs com integração com o React Toastfy.
 
-- ### [📁 App_level_metric_NEXTJS](https://github.com/silasMarquess/level-metric.git)
+- ### [📁 web-levelMetric-nextjs](https://github.com/silasMarquess/level-metric.git)
 > exemplo de um aplicativo web feito em nextjs que simula o recebimento de informação de um sensor de nivel de agua conectado a um Raspberry
 
 ## Breve Resumo:
