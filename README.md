@@ -22,7 +22,7 @@
 > exemplo de um FrontEnd de aplicativo web, que recebe informações de um sensor via HaviMQ.
 
 - ### [📁 web-painel-admin-nextjs](https://github.com/silasMarquess/painel-admin-believer.git)
-> exemplo  aplicativo fron-ent Saas feito com Nextjs de gestão de membros de uma Igreja.
+> exemplo  aplicativo front-end SaaS feito com Nextjs de gestão de membros de uma Igreja.
 
 - ### [📁 web-ReactToastfy-nextjs](https://github.com/silasMarquess/toastfy-microapi.git)
 > exemplo de um front-end que exemplifica a implementação de uma micro API dentro do nextjs com integração com o React Toastfy.
