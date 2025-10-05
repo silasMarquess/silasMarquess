@@ -14,10 +14,13 @@
 - ### [📁 api-believer-express](https://github.com/silasMarquess/API_believer.git)
 > exemplo de uma API para CRUD de membros feito puramente com express, typeScript, e node
 
-- ### [📁 api-rbacModel-nestjs - NESTJS](https://github.com/silasMarquess/RBAC_MODEL.git)
+- ### [📁 api-rbacModel-nestjs - NESTJS](https://github.com/silasMarquess/RBAC_MODEL.gi)
 > projeto de exemplo que mostrar a implementação de um modelo de permissionamento RBAC usando a infra top do Nestjs
 
 ## Front-End
+- ### [📁 aplicativo web](https://github.com/silasMarquess/construmix-app-balance.git)
+> exemplo de um FrontEnd de aplicativo web feito com nextjs para fazer balanço de estoque de produtos de uma empresa,.
+
 - ### [📁 web-app-iot](https://github.com/silasMarquess/healthWater_APP.git)
 > exemplo de um FrontEnd de aplicativo web, que recebe informações de um sensor via HaviMQ.
 
