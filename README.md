@@ -21,6 +21,9 @@
 > projeto de exemplo que mostrar a implementação de um modelo de permissionamento RBAC usando a infra top do Nestjs
 
 ## Front-End
+- ### [📁 aplicativo-encomence-bewer](https://github.com/silasMarquess/bootcamp-painel.git)
+> exemplo de um encomence completo para vendas de artigos de moda
+
 - ### [📁 aplicativo web](https://github.com/silasMarquess/construmix-app-balance.git)
 > exemplo de um FrontEnd de aplicativo web feito com nextjs para fazer balanço de estoque de produtos de uma empresa,.
 
