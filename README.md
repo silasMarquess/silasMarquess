@@ -11,6 +11,9 @@
 
 # Projetos Destaque
 ## Back-End
+- ### [📁 api-school](https://github.com/silasMarquess/school-api.git)
+> exemplo de uma API de consulta de de dados de um institução educacional feita em nestjs
+> 
 - ### [📁 api-believer-express](https://github.com/silasMarquess/API_believer.git)
 > exemplo de uma API para CRUD de membros feito puramente com express, typeScript, e node
 
