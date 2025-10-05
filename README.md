@@ -13,7 +13,10 @@
 ## Back-End
 - ### [📁 api-school](https://github.com/silasMarquess/school-api.git)
 > exemplo de uma API de consulta de de dados de um institução educacional feita em nestjs
-> 
+
+- ### [📁 api-rbac-model](https://github.com/silasMarquess/api-rbacModel-nestjs.git)
+> exemplo de uma API de implmentação do modelo de permissionamento RBAC, usando conceito no nestjs como Guard, decorators....
+
 - ### [📁 api-believer-express](https://github.com/silasMarquess/API_believer.git)
 > exemplo de uma API para CRUD de membros feito puramente com express, typeScript, e node
 
