@@ -62,6 +62,6 @@ desenvolvimento de soluções escaláveis
 - [Progamaçõa Para Internet - UniFacimp Wyden](https://bucket-app-microcertificados.s3.amazonaws.com/FACIMP/1077/9690722/e5c5d08a1429f5e447e1f195189fc8e-e2ba-4e25-a30f-4c2c142ae65e)
 
 ## 📄 Quer me conhecer melhor? segue a baixo alguns links de minhas redes:
-- [📄 Acessar Curriculo Atualizado](https://www.icloud.com/iclouddrive/0544dqUBL6L7OTB_7s-gbHDag#Curriculo%5FSilas%5FMarques%5FModerno)
+- [📄 Acessar Curriculo Atualizado](https://www.icloud.com/iclouddrive/045uD6U_zTHxY0EPN3rhe9utA#SilasMarquesDeSousaResume)
 - [📱 Fale comigo no WhatsApp](https://wa.me/5511912345678)
 - [Acessa Meu Linkdin](https://www.linkedin.com/in/marques08122)
